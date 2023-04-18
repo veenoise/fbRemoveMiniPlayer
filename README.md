@@ -1,1 +1,1 @@
-# ![Logo](/images/icon-128.png) FB Remove Miniplayer
+# ![Logo](/images/icon-48.png) FB Remove Miniplayer
