@@ -11,8 +11,8 @@ This is a web extension that disables the miniplayer feature on Facebook. Facebo
 1. Download the zip of this repository.
 2. Extract the file.
 3. Enable the extension:
-  1. View all extensions
-  2. Manage extensions
-  3. Load unpacked
-  4. Select the folder 
-  5. Make sure it is activated
+    1. View all extensions
+    2. Manage extensions
+    3. Load unpacked
+    4. Select the folder 
+    5. Make sure it is activated
