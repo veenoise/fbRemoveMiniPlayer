@@ -1,5 +1,5 @@
 const mutationObserver = new MutationObserver(entries => {  
-  const targetDiv = document.querySelector("div.xxsgkw5")
+  const targetDiv = document.querySelector(".xxsgkw5")
   if (targetDiv) {    
     parent.removeChild(targetDiv)
   }
